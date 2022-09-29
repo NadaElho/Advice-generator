@@ -23,9 +23,11 @@ body {
     border-radius: 16px;
     position: relative;
 }
-.box span{
+.box h1{
     color: hsl(150, 100%, 66%);
     text-transform: uppercase;
+    font-size: 15px;
+    letter-spacing: 3px;
 }
 .box p{
     margin-top: 25px;
