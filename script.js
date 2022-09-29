@@ -4,5 +4,5 @@ fetch("https://api.adviceslip.com/advice",{cache: "no-cache"}).then((res)=>{
     return res.json();
 }).then(data=>{
     title.innerHTML=`Advice #${data.slip.id}`;
-    advice.innerHTML=`<blockquote>${data.slip.advice}</blockquote>`
+    advice.innerHTML=`"${data.slip.advice}"`
 })

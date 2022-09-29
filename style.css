@@ -29,7 +29,7 @@ body {
     font-size: 15px;
     letter-spacing: 3px;
 }
-.box p{
+.box article{
     margin-top: 25px;
     margin-bottom: 25px;
     color: hsl(193, 38%, 86%);
