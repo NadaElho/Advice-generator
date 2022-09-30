@@ -46,5 +46,5 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [Nada Elhosary](https://https://www.frontendmentor.io/profile/NadaElho)
+- Frontend Mentor - [Nada Elhosary](https://www.frontendmentor.io/profile/NadaElho)
 
