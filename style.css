@@ -29,7 +29,8 @@ body {
     font-size: 15px;
     letter-spacing: 3px;
 }
-.box article{
+.box q{
+    display: inline-block;
     margin-top: 25px;
     margin-bottom: 25px;
     color: hsl(193, 38%, 86%);
